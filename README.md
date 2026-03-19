@@ -30,4 +30,4 @@ El programa crea un arreglo de materiales (libro, revista y tesis) y recorre cad
 
 ## 👨‍💻 Autor
 
-Jean Carlos
+Jean Carlos - Juan Tovar
